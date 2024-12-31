@@ -1,0 +1,7 @@
+"Camera Emotion Detection" leverages OpenCV to analyze real-time video feed from your device’s camera, enabling instant emotional insights.
+
+    Real-time Analysis: Continuously processes video frames to detect faces and analyze their emotions.
+
+    User Interaction: Enhances applications by adapting to the user’s emotional state in real-time, making interactions more responsive and engaging.
+
+    Security Applications: Monitors environments to detect emotions such as stress or anxiety, adding an extra layer of situational awareness.

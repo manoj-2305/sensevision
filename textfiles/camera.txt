@@ -1,0 +1,7 @@
+"Camera Detection leverages live camera feeds to perform real-time object detection. "
+"It is highly effective for applications requiring immediate feedback and interaction. "
+"The detection process analyzes the captured frames continuously to identify objects, making it "
+    ideal for tasks such as:
+        1. Real-time surveillance and security monitoring.
+        2. Augmented Reality (AR) applications in gaming and education.
+        3. Robotics and automation for dynamic environments."

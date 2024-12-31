@@ -1,0 +1,6 @@
+"Image Detection focuses on analyzing static images to identify and locate objects within them. "
+"Using deep learning techniques, this process scans the image for patterns, edges, and features to "
+"detect objects accurately. Image Detection is widely used in applications such as:
+        1. Facial recognition for security and personalization.
+        2. Analyzing medical images for disease diagnosis.
+        3. Detecting objects in satellite imagery for environmental monitoring.
