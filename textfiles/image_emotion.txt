@@ -1,0 +1,8 @@
+"Image Emotion Detection" uses OpenCV to analyze static images for emotional content.
+
+    Photo Tagging: Automatically tags images with detected emotions, useful for organizing and searching personal photo collections.
+
+    Social Media Analysis: Provides insights into the emotional tone of images posted on social media, enhancing user engagement and content targeting.
+
+    Recruitment and HR: Analyzes candidate photos in resumes or social profiles to gauge their emotional expressions, aiding in recruitment decisions.
+
